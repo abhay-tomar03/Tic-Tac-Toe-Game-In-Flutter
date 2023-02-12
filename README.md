@@ -1,10 +1,24 @@
-# tic_tac_toe_gaem
+# tic_tac_toe_game
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+Steps to use:
+
+1- Setup Flutter 
+
+2- Clone the repo
+
+3-Install dependencies
+
+  - $ flutterpub get
+  
+4- Run App
+  
+  - $ flutter run
 
 A few resources to get you started if this is your first Flutter project:
 
