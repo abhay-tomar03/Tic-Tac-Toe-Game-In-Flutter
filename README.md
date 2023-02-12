@@ -24,11 +24,20 @@ Steps to use:
 
 # Screenshots 
 
-  ![image](https://user-images.githubusercontent.com/75438874/218302277-eb4f5e5f-aa2f-4e6f-a3d1-ea103d61819d.png)
+![image](https://user-images.githubusercontent.com/75438874/218302277-eb4f5e5f-aa2f-4e6f-a3d1-ea103d61819d.png)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/75438874/218302287-67bef31e-26ce-4d19-a85f-e02bd66ea08f.png)
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/75438874/218302289-97c15836-ac3b-4f1e-9241-bed09a9c55e5.png)
+
+
 
 
 
