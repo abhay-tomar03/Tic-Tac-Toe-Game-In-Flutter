@@ -14,11 +14,13 @@ Steps to use:
 
 3-Install dependencies
 
-  - $ flutterpub get
+  - $ flutter pub get
   
 4- Run App
   
   - $ flutter run
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
